@@ -1,8 +1,8 @@
-# Essential JS 2 QuickStart
+# Syncfusion Angular Components
 
 This project is a skeleton application used to create [Syncfusion Angular Components](https://www.syncfusion.com/angular-ui-components) web application.
 
-The application contains Essential JS 2 button component for preview and all common settings are preconfigured.
+
 
 ## Add Syncfusion Grid component in your application
 
