@@ -1,29 +1,13 @@
 # Essential JS 2 QuickStart
 
-This project is a skeleton application used to create [Essential JS 2](https://www.syncfusion.com/products/essential-js2) web application.
+This project is a skeleton application used to create [Syncfusion Angular Components](https://www.syncfusion.com/angular-ui-components) web application.
 
 The application contains Essential JS 2 button component for preview and all common settings are preconfigured.
 
-## Getting Started
+## Add Syncfusion Grid component in your application
 
-To get started you need to clone the `ej2-quickstart` repository and navigate to `ej2-quickstart` location.
-
-```
-git clone https://github.com/syncfusion/ej2-quickstart.git quickstart
-cd quickstart
-```
-
-## Installing
-
-We can get all the Essential JS 2 components in a single npm package [`ej2`](https://www.npmjs.com/package/@syncfusion/ej2).
-
-We already configure the required packages in the `package.json` file.
-
-You can run the below command to install all dependent packages related to this seed project.
-
-```
-npm install
-```
+Refer the following UG documenation for adding Syncfusion Angular component in your application
+* [Getting Started of Syncfusion Angular Data Grid component](https://ej2.syncfusion.com/angular/documentation/grid/getting-started/)
 
 ## GraphQL Server setup
 
